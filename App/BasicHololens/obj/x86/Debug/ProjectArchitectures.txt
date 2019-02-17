@@ -1,0 +1,2 @@
+C:\Users\user\Documents\BasicHololens\App\BasicHololens\BasicHololens.csproj;x86
+C:\Users\user\Documents\BasicHololens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
