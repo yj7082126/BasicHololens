@@ -284,6 +284,7 @@ af1b899928fa73a7824f1b26518097f6 Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.M
 bffc879e328df7088b4672067d06833b Assembly-CSharp.dll:HoloToolkit.Unity.UX.LineParticles
 7af9546644a163574e9d4ff26d86b8f2 Assembly-CSharp.dll:HoloToolkit.Unity.FadeManager
 c33d01c4bc5af79105f862d8a2f08cdf Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.ButtonIconProfileTexture
+4ccdd4261c1976480cc299ba57202052 Assembly-CSharp.dll:.MoveTool
 7a65adebc9a24f885fe1434a888037a0 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.InteractionInputSource
 a25a8c9491d9347bc4d0987ee1b2f8ad Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.ObjectButton
 88e38a4a640bd9d2c3692083a6438666 Assembly-CSharp.dll:HoloToolkit.Unity.UX.LineObjectCollection

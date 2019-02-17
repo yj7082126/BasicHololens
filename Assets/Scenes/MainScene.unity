@@ -544,6 +544,7 @@ GameObject:
   - component: {fileID: 373376071}
   - component: {fileID: 99847530}
   - component: {fileID: 373376072}
+  - component: {fileID: 373376073}
   m_Layer: 8
   m_Name: Move
   m_TagString: Untagged
@@ -578,6 +579,22 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2, y: 2, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &373376073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 373376070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64c9ee27266b99e40b58c226c978848d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HostTransform: {fileID: 0}
+  PositionLerpSpeed: 0.2
+  RotationLerpSpeed: 0.2
+  DistanceScale: 8
+  IsDraggingEnabled: 1
 --- !u!1 &500357532
 GameObject:
   m_ObjectHideFlags: 0

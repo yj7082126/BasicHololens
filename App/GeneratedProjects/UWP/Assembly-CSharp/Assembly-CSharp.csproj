@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6f4ec18d-bbe9-429e-8104-392c0cfc59be}</ProjectGuid>
+    <ProjectGuid>{4e1ed8ef-811d-4b53-ac5f-2af9858053cb}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -1907,6 +1907,9 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\FadeObjectNotActive.cs">
       <Link>Scripts\FadeObjectNotActive.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\MoveTool.cs">
+      <Link>Scripts\MoveTool.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\NRSRManager.cs">
       <Link>Scripts\NRSRManager.cs</Link>

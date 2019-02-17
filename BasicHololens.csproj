@@ -751,6 +751,7 @@
     <Compile Include="Assets\Scripts\ActivateToolSet.cs" />
     <Compile Include="Assets\Scripts\BBox.cs" />
     <Compile Include="Assets\Scripts\FadeObjectNotActive.cs" />
+    <Compile Include="Assets\Scripts\MoveTool.cs" />
     <Compile Include="Assets\Scripts\NRSRManager.cs" />
     <Compile Include="Assets\Scripts\TransformMenuMovement.cs" />
   </ItemGroup>

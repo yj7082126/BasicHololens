@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 BasicHololens.sln: modified
 BasicHololens\App.cs: D4C6460CBBB40F20617DE2FBC372C8F5
-BasicHololens\BasicHololens.csproj: 665F7408113F2F58E94259C7CE42DBD1
+BasicHololens\BasicHololens.csproj: 9E91D211044A688F498B84724A306367
 BasicHololens\BasicHololens.csproj.user: modified
 BasicHololens\Package.appxmanifest: 500439E525479CB037E7E8FD1840E694
 BasicHololens\project.json: 1D02BC64BAC0D041019673A1C4C51737
